@@ -1,2 +1,2 @@
 # E-Waste-Collecetion-Management
-E-Commerce
+E-Commerce Website
